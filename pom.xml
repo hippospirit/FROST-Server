@@ -145,7 +145,7 @@
         <version.paho>1.2.5</version.paho>
         <version.postgis>2.5.1</version.postgis>
         <version.postgres>42.7.3</version.postgres>
-        <version.slf4j-api>2.0.13</version.slf4j-api>
+        <version.slf4j-api>2.0.16</version.slf4j-api>
         <version.testcontainers>1.19.8</version.testcontainers>
         <version.testcontainers-keycloak>3.3.1</version.testcontainers-keycloak>
         <version.time4j>5.9.4</version.time4j>
