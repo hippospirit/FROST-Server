@@ -105,7 +105,7 @@
         <version.geolatte-common>0.8</version.geolatte-common>
         <version.guava>33.2.1-jre</version.guava>
         <version.httpclient>4.5.14</version.httpclient>
-        <version.jackson>2.17.1</version.jackson>
+        <version.jackson>2.17.2</version.jackson>
         <version.jackson-databind>${version.jackson}</version.jackson-databind>
         <version.jacksonGeojson>1.14</version.jacksonGeojson>
         <version.javaee-web-api>8.0.1</version.javaee-web-api>
@@ -145,7 +145,7 @@
         <version.paho>1.2.5</version.paho>
         <version.postgis>2.5.1</version.postgis>
         <version.postgres>42.7.3</version.postgres>
-        <version.slf4j-api>2.0.13</version.slf4j-api>
+        <version.slf4j-api>2.0.16</version.slf4j-api>
         <version.testcontainers>1.19.8</version.testcontainers>
         <version.testcontainers-keycloak>3.3.1</version.testcontainers-keycloak>
         <version.time4j>5.9.4</version.time4j>
