@@ -112,13 +112,13 @@
         <version.javax-activation>1.1.1</version.javax-activation>
         <version.javax-servlet>4.0.1</version.javax-servlet>
         <version.jetty>10.0.21</version.jetty>
-        <version.jooq>3.19.9</version.jooq>
+        <version.jooq>3.19.11</version.jooq>
         <version.json-patch>1.13</version.json-patch>
         <version.junit>5.10.2</version.junit>
         <version.junit-platform-suite>1.10.2</version.junit-platform-suite>
         <version.keycloak>24.0.5</version.keycloak>
         <version.liquibase>4.28.0</version.liquibase>
-        <version.logback>1.5.6</version.logback>
+        <version.logback>1.5.7</version.logback>
 
         <version.maven.plugin.assembly>3.7.1</version.maven.plugin.assembly>
         <version.maven.plugin.build-helper>3.6.0</version.maven.plugin.build-helper>
@@ -144,7 +144,7 @@
         <version.org.json>20231013</version.org.json>
         <version.paho>1.2.5</version.paho>
         <version.postgis>2.5.1</version.postgis>
-        <version.postgres>42.7.3</version.postgres>
+        <version.postgres>42.7.4</version.postgres>
         <version.slf4j-api>2.0.13</version.slf4j-api>
         <version.testcontainers>1.19.8</version.testcontainers>
         <version.testcontainers-keycloak>3.3.1</version.testcontainers-keycloak>
